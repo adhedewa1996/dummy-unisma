@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "amount": "5000"
+        },
+        {
+            "id": 2,
+            "amount": "20000"
+        },
+        {
+            "id": 3,
+            "amount": "50000"
+        },
+        {
+            "id": 4,
+            "amount": "100000"
+        }
+    ],
+    "message": "Data Nominal Berhasil Didapat"
+}

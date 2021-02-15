@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "BNI"
+        },
+        {
+            "id": 2,
+            "name": "MANDIRI"
+        }
+    ],
+    "message": "Data Bank Berhasil Didapat"
+}
